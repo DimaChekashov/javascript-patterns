@@ -54,4 +54,7 @@ class FormBuilder {
   }
 }
 
-module.exports = FormBuilder;
+module.exports = {
+  Form,
+  FormBuilder
+};

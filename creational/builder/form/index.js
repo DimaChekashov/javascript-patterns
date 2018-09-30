@@ -1,4 +1,4 @@
-const FormBuilder = require('./form-builder');
+const { FormBuilder } = require('./form-builder');
 
 let formBuilder = new FormBuilder();
 
